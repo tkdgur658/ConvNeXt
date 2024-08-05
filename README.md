@@ -7,7 +7,7 @@ This repository contains an unofficial implementation of ConvNeXt using PyTorch.
 
 
 ## Neural Network
-![Local Image](GOTDNet.png "GOTDNet")
+![Local Image](ConvNeXt Block.png "ConvNeXt")
 ## Paper
 If you use this software for your research, please cite:
 
