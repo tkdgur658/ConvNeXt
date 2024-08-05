@@ -6,8 +6,8 @@ The preprocessing and architecture can be referenced by a manuscript entitled, "
 This repository contains an unofficial implementation of ConvNeXt using PyTorch.<br/>
 
 
-## Neural Network
-![Local Image](ConvNeXt Block.png "ConvNeXt")
+## Neural Network Block
+![Local Image](ConvNeXt_Block.png "ConvNeXt")
 ## Paper
 If you use this software for your research, please cite:
 
